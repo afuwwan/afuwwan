@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Brawijaya University Student in CS Major<br>🤔 Curios and interested in Game Design and Game Development<br>📘 C and C++ Beginner<br>🧑‍💻 Basic Knowledge for WebVR and AR Development
+🏫 Brawijaya University Student in CS Major<br>🤔 Curios and interested in Game Design and Game Development<br>📘 C and C++ Beginner<br>🧑‍💻 Basic Knowledge for WebVR and AR Development<br>🎮 Checkout the games ive made at https://afuwwan.itch.io
 
 
 # 💻 Tech Stack:
